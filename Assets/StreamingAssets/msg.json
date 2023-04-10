@@ -1,0 +1,65 @@
+{
+    "threads": [
+      {
+        "id": 1,
+        "app": "app1",
+        "contact": {
+          "name": "Alice",
+          "id": "c1"
+        },
+        "msgs": [
+          {
+            "time": "2023-04-10T10:01:00",
+            "uid": "u1",
+            "txt": "Hey Alice, have you tried the new VR game 'CyberWorld'?"
+          },
+          {
+            "time": "2023-04-10T10:02:30",
+            "uid": "c1",
+            "txt": "Hey! Not yet, but I've heard great things about it. The graphics and immersion are amazing!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "app": "app2",
+        "contact": {
+          "name": "Bob",
+          "id": "c2"
+        },
+        "msgs": [
+          {
+            "time": "2023-04-10T11:15:30",
+            "uid": "u1",
+            "txt": "Hey Bob, what do you think about the new AR game 'DinoHunt'?"
+          },
+          {
+            "time": "2023-04-10T11:17:20",
+            "uid": "c2",
+            "txt": "I've been playing it non-stop! It's so cool how the dinosaurs interact with the real world."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "app": "app3",
+        "contact": {
+          "name": "Charlie",
+          "id": "c3"
+        },
+        "msgs": [
+          {
+            "time": "2023-04-10T14:30:45",
+            "uid": "u1",
+            "txt": "Charlie, have you seen the new VR headset that was just announced?"
+          },
+          {
+            "time": "2023-04-10T14:32:30",
+            "uid": "c3",
+            "txt": "Yes, it looks incredible! I can't wait to try it out."
+          }
+        ]
+      }
+    ]
+  }
+  

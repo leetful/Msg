@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "appId": "A1",
+    "contact": { "id": "1", "name": "Alice" },
+    "messages": [
+      { "senderId": "0", "content": "Hey Alice!", "timestamp": "2023-04-09T10:00:00" },
+      { "senderId": "1", "content": "Hi there!", "timestamp": "2023-04-09T10:01:00" },
+      { "senderId": "0", "content": "How are you today?", "timestamp": "2023-04-09T10:02:00" },
+      { "senderId": "1", "content": "I'm doing well, thanks!", "timestamp": "2023-04-09T10:03:00" },
+      { "senderId": "0", "content": "That's great!", "timestamp": "2023-04-09T10:04:00" },
+      { "senderId": "1", "content": "Yeah, I'm happy with how it turned out.", "timestamp": "2023-04-09T10:05:00" },
+      { "senderId": "0", "content": "I'd love to see it.", "timestamp": "2023-04-09T10:06:00" },
+      { "senderId": "1", "content": "I'll send you a photo later!", "timestamp": "2023-04-09T10:07:00" }
+    ]
+  },
+  {
+    "id": "2",
+    "appId": "A1",
+    "contact": { "id": "2", "name": "Bob" },
+    "messages": [
+      { "senderId": "0", "content": "Hi Bob!", "timestamp": "2023-04-09T10:10:00" },
+      { "senderId": "2", "content": "Hello!", "timestamp": "2023-04-09T10:11:00" },
+      { "senderId": "0", "content": "How's your day going?", "timestamp": "2023-04-09T10:12:00" },
+      { "senderId": "2", "content": "It's going well.", "timestamp": "2023-04-09T10:13:00" },
+      { "senderId": "0", "content": "Sounds amazing!", "timestamp": "2023-04-09T10:14:00" },
+      { "senderId": "2", "content": "It was a great experience.", "timestamp": "2023-04-09T10:15:00" },
+      { "senderId": "0", "content": "I'd love to see the photos.", "timestamp": "2023-04-09T10:16:00" },
+      { "senderId": "2", "content": "I'll share them with you soon.", "timestamp": "2023-04-09T10:17:00" }
+    ]
+  }
+]
